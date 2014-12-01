@@ -1,0 +1,19 @@
+{
+  "name": "TicTaeToe",
+  "version": "0.0.1",
+  "description": "TicTacToe",
+  "main": "index.html",
+  "scripts": {
+    "test": "spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stephania07/TicTaeToe.git"
+  },
+  "author": "Stephania",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stephania07/TicTaeToe/issues"
+  },
+  "homepage": "https://github.com/stephania07/TicTaeToe"
+}
