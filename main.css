@@ -1,21 +1,12 @@
-table {
-  height: 200px;
-	width: 200px;
-  border: solid 1px black;
+.grid td {
+	background: grey;
+	width: 90px;
+	height: 90px;
+}
+.grid td.moveX {
+    background-image: url(../images/x.png);
+}
+.grid td.moveO {
+    background-image: url(../images/circle.jpg);
 }
 
-tr td {
-  height: 30px;
-	width: 30px;
-	border: 1px solid black;
-	background: grey;
-}
-div {
-  height: 40px;
-	width: 60px
-}
-li {
-  display: inline-block;
-	list-style: none;
-	font-size: 20px;
-}
